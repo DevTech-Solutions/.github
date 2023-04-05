@@ -13,4 +13,3 @@
 ![proxcity](https://user-images.githubusercontent.com/108033858/229977101-18695bb2-5d8d-4878-93f3-e7ed23646076.png)
 ![wm](https://user-images.githubusercontent.com/108033858/229977121-434ed7c6-0a5a-4385-b65f-d790bad552ce.png)
 ![blockHealth](https://user-images.githubusercontent.com/108033858/229977136-e0b33d1f-82e9-4a6a-894d-dd62af5d51e3.png)
-![logo](https://user-images.githubusercontent.com/108033858/229979561-72abb0c9-29e9-4142-948d-adb88de67cf4.png)
