@@ -10,6 +10,6 @@
 - 🐦 Twitter: https://twitter.com/ProxLab or https://twitter.com/Proxcity_xyz
 
 # **Founding Projects:**
+![𝕏-avi](https://github.com/DevTech-Solutions/.github/assets/18154643/a45003b4-1a76-42b2-b4fe-a24c642d880a)
 ![proxcity](https://user-images.githubusercontent.com/108033858/229977101-18695bb2-5d8d-4878-93f3-e7ed23646076.png)
 ![wm](https://user-images.githubusercontent.com/108033858/229977121-434ed7c6-0a5a-4385-b65f-d790bad552ce.png)
-![blockHealth](https://user-images.githubusercontent.com/108033858/229977136-e0b33d1f-82e9-4a6a-894d-dd62af5d51e3.png)
