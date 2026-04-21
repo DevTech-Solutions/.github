@@ -6,8 +6,6 @@
 **Eliminate Guessing. Work With Experts.**
 
 - 💻 Website: https://devtechsolutions.us
-- 💬 Join Build Discord: https://discord.gg/e25ydjnWFH
-- 🐦 Twitter: https://twitter.com/ProxLab or https://twitter.com/Proxcity_xyz
 
 # **Founding Projects:**
 <img width="100" height="100" alt="HydexBlackTextLandscape" src="https://github.com/user-attachments/assets/91ebba47-8f6d-4d08-b3c0-c6987fc0e0ef" />
