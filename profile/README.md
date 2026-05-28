@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="1302" height="474" alt="logo-white" src="https://github.com/user-attachments/assets/2819d653-9231-448e-a3f2-e8ba546782fa" />
+<img width="4096" height="1525" alt="hq-logo" src="https://github.com/user-attachments/assets/8cc55727-8d4c-441e-b628-68fd52fa6c0b" />
 
 
 **Smart Solutions for Your Development and Product Needs.**
