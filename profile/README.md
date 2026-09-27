@@ -15,6 +15,11 @@
 ![wm](https://user-images.githubusercontent.com/108033858/229977121-434ed7c6-0a5a-4385-b65f-d790bad552ce.png) -->
 <img width="100" height="100" alt="mendly-mark-olive" src="https://github.com/user-attachments/assets/f035d621-5881-4166-96ce-6a411babcfaf" />
 
+# **Client Projects:**
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c6f80532-b903-4c08-a697-5164c64b027c" />
+<img width="270" height="100" alt="image" src="https://staging.eddaworks.com/brand/edda-works-wordmark-light.png" />
+
+
 # **Hydex Apps:**
  - https://hydex.gg
  - https://hytopiadex.com
