@@ -16,13 +16,13 @@
 <img width="100" height="100" alt="mendly-mark-olive" src="https://github.com/user-attachments/assets/f035d621-5881-4166-96ce-6a411babcfaf" />
 
 # **Hydex Apps:**
-https://hydex.gg
-https://hytopiadex.com
+ - https://hydex.gg
+ - https://hytopiadex.com
 
 # **Mendly Apps:**
-https://heymendly.com
-https://cx.heymendly.com
-https://ops.heymendly.com
-https://workforce.heymendly.com
-https://careers.heymendly.com
-https://docs.heymendly.com
+ - https://heymendly.com
+ - https://cx.heymendly.com
+ - https://ops.heymendly.com
+ - https://workforce.heymendly.com
+ - https://careers.heymendly.com
+ - https://docs.heymendly.com
