@@ -14,3 +14,15 @@
 <!-- ![proxcity](https://user-images.githubusercontent.com/108033858/229977101-18695bb2-5d8d-4878-93f3-e7ed23646076.png)
 ![wm](https://user-images.githubusercontent.com/108033858/229977121-434ed7c6-0a5a-4385-b65f-d790bad552ce.png) -->
 <img width="100" height="100" alt="mendly-mark-olive" src="https://github.com/user-attachments/assets/f035d621-5881-4166-96ce-6a411babcfaf" />
+
+# **Hydex Apps:**
+https://hydex.gg
+https://hytopiadex.com
+
+# **Mendly Apps:**
+https://heymendly.com
+https://cx.heymendly.com
+https://ops.heymendly.com
+https://workforce.heymendly.com
+https://careers.heymendly.com
+https://docs.heymendly.com
